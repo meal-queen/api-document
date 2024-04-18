@@ -10,7 +10,7 @@ Request Body:
     
     "name": String
 
-		"password": String
+    "password": String
 
     "restaurant": String
 
