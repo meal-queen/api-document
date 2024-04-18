@@ -6,11 +6,11 @@ Request Body:
 
 ```json
 {
-		"username": String
+    "username": String
 		
     "name": String
 
-		"password": String
+    "password": String
 
     "company": String
     
